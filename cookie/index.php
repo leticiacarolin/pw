@@ -8,11 +8,11 @@
 </head>
 <body>
 
-<form action="cookies.php" method="post">
+<form action="cookie.php" method="post">
  <input type="text" placeholder= "Diga seu nome:" name="name" />
 <p> <input type="text" placeholder= "Diga seu email:" name="email" /></p>
 <input type="text" placeholder= "Diga a cidade que voce nasceu:" name="cidade" />
- 
+
  <p><input type="submit" /></p>
 </form>
 
